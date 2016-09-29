@@ -1,5 +1,5 @@
 <?php
-
+	//katsetus
 	require("function.php");
 	
 	if (isset($_GET["logout"])) {

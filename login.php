@@ -1,7 +1,7 @@
 ﻿
 <?php
 	
-	require("../../../config.php");
+	require("../../config.php");
 	require("function.php");
 	//var_dump();
 	//var_dump($_GET);
